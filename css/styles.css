@@ -9,7 +9,7 @@ main {
     justify-content: space-between;   
 }
 
-section {
+section { 
     background-color: white;
     border: 0.1rem solid black;
     padding: 0.6rem 0;
